@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\TabPages-ornek\TabPages-ornek\bin\Debug\TabPages-ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\TabPages-ornek\TabPages-ornek\bin\Debug\TabPages-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\TabPages-ornek\TabPages-ornek\bin\Debug\TabPages-ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\TabPages-ornek\TabPages-ornek\obj\Debug\TabPages-ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\TabPages-ornek\TabPages-ornek\obj\Debug\TabPages-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\TabPages-ornek\TabPages-ornek\obj\Debug\TabPages_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\TabPages-ornek\TabPages-ornek\obj\Debug\TabPages_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\TabPages-ornek\TabPages-ornek\obj\Debug\TabPages-ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\TabPages-ornek\TabPages-ornek\obj\Debug\TabPages-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\TabPages-ornek\TabPages-ornek\obj\Debug\TabPages-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\TabPages-ornek\TabPages-ornek\obj\Debug\TabPages-ornek.pdb
